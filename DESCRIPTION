@@ -1,0 +1,12 @@
+Package: PreProcSEQ
+Type: Package
+Title: Quality control and pre-processing of RNA-Seq
+Version: 0.1.0
+Author: Jean S. S. Resende
+Maintainer: Jean S. S, Resende <jeean.s.s.resende@gmail.com>
+Description: Quality control assessment and pre-processing of FASTQs files. 
+    Finally, the transcripts are quantified.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
